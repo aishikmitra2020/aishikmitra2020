@@ -10,7 +10,7 @@
 - **Databases**: MongoDB, MySQL  
 - **Languages**: **Python (advanced)**, Java, C  
 - **Others**: OpenCV (earlier), Git, Postman  
-- 🧠 UpNext: **DSA with C++**, **Android Development**, **Geberative AI**, **Devops**, **Cloud Computing**, **Networking**, **System Design**, **Java Full Stack**
+- 🧠 UpNext: **DSA with C++**, **Android Development**, **Generative AI**, **Devops**, **Cloud Computing**, **Networking**, **System Design**, **Java Full Stack**
 
 ## 🚀 Passionate About:
 **Web Development** and **AI** — always building, breaking stuff, and learning along the way.

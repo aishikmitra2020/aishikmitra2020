@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm a high schooler (Class 10) who’s super into code and creativity.
 
-<!--
-**aishikmitra2020/aishikmitra2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m currently learning **Next.js** and **TypeScript**, and actively building full-stack projects using the **MERN stack** and **python** —  
+**MongoDB + Express.js + React.js + Node.js** 🔥
 
-Here are some ideas to get you started:
+## 🛠️ Tech I've worked with:
+- **Full-Stack**: **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express.js, Flask, Django (earlier)  
+- **Databases**: MongoDB, MySQL  
+- **Languages**: **Python (advanced)**, Java, C  
+- **Others**: OpenCV (earlier), Git, Postman  
+- 🧠 UpNext: **DSA with C++**, **Android Development**, **Geberative AI**, **Devops**, **Cloud Computing**, **Networking**, **System Design**, **Java Full Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Passionate About:
+**Web Development** and **AI** — always building, breaking stuff, and learning along the way.
+
+📚 Still in school (Class 10), not looking for work yet — just coding for the love of it.
+
+⚡ *Building. Breaking. Learning. Repeating.*
